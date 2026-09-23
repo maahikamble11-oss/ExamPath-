@@ -1,11 +1,49 @@
 # 🧭 ExamPath — AI Study Companion (ML + Streamlit project)
 
-ExamPath analyzes a student's quiz history, predicts **weak concepts** with a
-machine-learning model, generates a **targeted practice quiz**, **scores** the
-attempt, and schedules **spaced-repetition revisions** with in-browser alarms.
+Problem Statement & the Need: Most students revise reactively — they re-read the same chapters, take generic mock tests, and don't know which specific concepts are actually weak until they lose marks in the real exam. Teachers and coaching institutes also struggle to track individual weak areas across large batches without manual effort. The result: wasted revision time on topics already mastered, and last-minute panic on topics that were never actually reinforced. There's a need for a lightweight, data-driven tool that pinpoints weak concepts early and builds a personalized, repeatable revision loop around them — without requiring heavy infrastructure like a school ERP or database.
 
-All data is stored as plain **CSV files** (as if exported from Excel) —
-**no SQL / database** is used anywhere in this project.
+Proposed Product & How It Works
+ExamPath is a Streamlit-based AI study companion that ingests a student's quiz-attempt history (from simple CSV files — no database needed), and:
+
+Trains a RandomForestClassifier on attempt patterns (difficulty, time taken, rolling accuracy) to predict a mastery score per concept.
+Flags concepts below a mastery threshold as "weak."
+Auto-generates a targeted practice quiz from the question bank on those weak concepts.
+Scores the quiz instantly and logs the new attempt back into the history.
+Feeds the result into a spaced-repetition scheduler (SM-2 style) that decides when each concept should be revisited, and fires browser alarms when a revision is due.
+
+Target Users:
+School/coaching students (classes 9–12, JEE/NEET aspirants) who want a personal weak-spot tracker.
+Teachers/tutors managing small-to-medium batches who want a quick way to see which students are weak in which topics without building a full LMS.
+Coaching institutes / edtech startups who want a lightweight add-on module rather than a full analytics platform.
+
+Key Features & Value Proposition:
+Weak-concept detection powered by real ML, not just averages
+Auto-built, self-scoring practice quizzes targeted at weak areas
+Spaced-repetition revision calendar with real alarms
+Learner segmentation (KMeans) to group students by ability
+Fully CSV-driven — works with data exported from Excel/Google Sheets, no database setup
+Value prop: less time spent guessing what to study, more time spent studying the right things at the right intervals.
+
+What Makes It Innovative / Different:
+Combines three techniques that are usually separate products — mastery prediction, adaptive quizzing, and spaced repetition — into one lightweight tool.
+Zero infrastructure overhead: runs entirely on CSV files, so any school or tutor can adopt it without IT support or a database.
+Alarms use the actual browser Notification API, giving a real nudge rather than a passive dashboard nobody checks.
+Model retrains per student in real time from live data, rather than shipping a fixed, generic "weak topics" list.
+
+Basic Business / Revenue Model:
+Freemium SaaS: free tier for individual students (limited question bank/history); paid tier for advanced analytics, larger question banks, and unlimited history.
+B2B licensing to coaching institutes/schools: per-student or per-batch subscription, with a teacher dashboard add-on.
+White-label/API licensing: edtech platforms could plug the ML engine (weak-concept detection + spaced repetition) into their own products.
+Content marketplace: question-bank packs for specific exams (JEE, NEET, boards) sold as add-ons.
+
+Go-to-Market Strategy:
+Launch a free version targeting individual students via social media/exam-prep communities (Instagram, Telegram groups, Reddit exam subs) to build initial usage and word-of-mouth.
+Pilot with 2–3 local coaching institutes (like ones in your city) offering the teacher dashboard free for a term in exchange for feedback and testimonials.
+Use pilot data/case studies to approach mid-size coaching chains for paid batch licenses.
+Expand into a mobile-friendly/app version and partner with edtech content providers for question banks.
+
+Prototype:
+The working prototype is the Streamlit app already built in this conversation — it demonstrates the full core loop end to end: CSV data upload → ML-based weak-concept analysis → auto-generated practice quiz → live scoring → spaced-repetition schedule → browser alarm. You have the zipped project (ExamPath.zip) and sample datasets from earlier in this chat to run and showcase it.
 
 ## Project structure
 ```
