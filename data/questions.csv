@@ -1,0 +1,76 @@
+question_id,subject,concept,difficulty,question_text,option_a,option_b,option_c,option_d,correct_option
+Q0001,Physics,Kinematics,Easy,[Kinematics] Sample question #1 on Kinematics (Easy level).,Kinematics option A-1,Kinematics option B-1,Kinematics option C-1,Kinematics option D-1,A
+Q0002,Physics,Kinematics,Medium,[Kinematics] Sample question #2 on Kinematics (Medium level).,Kinematics option A-2,Kinematics option B-2,Kinematics option C-2,Kinematics option D-2,D
+Q0003,Physics,Kinematics,Hard,[Kinematics] Sample question #3 on Kinematics (Hard level).,Kinematics option A-3,Kinematics option B-3,Kinematics option C-3,Kinematics option D-3,C
+Q0004,Physics,Kinematics,Easy,[Kinematics] Sample question #4 on Kinematics (Easy level).,Kinematics option A-4,Kinematics option B-4,Kinematics option C-4,Kinematics option D-4,B
+Q0005,Physics,Kinematics,Medium,[Kinematics] Sample question #5 on Kinematics (Medium level).,Kinematics option A-5,Kinematics option B-5,Kinematics option C-5,Kinematics option D-5,B
+Q0006,Physics,Laws of Motion,Easy,[Laws of Motion] Sample question #1 on Laws of Motion (Easy level).,Laws of Motion option A-1,Laws of Motion option B-1,Laws of Motion option C-1,Laws of Motion option D-1,D
+Q0007,Physics,Laws of Motion,Medium,[Laws of Motion] Sample question #2 on Laws of Motion (Medium level).,Laws of Motion option A-2,Laws of Motion option B-2,Laws of Motion option C-2,Laws of Motion option D-2,A
+Q0008,Physics,Laws of Motion,Hard,[Laws of Motion] Sample question #3 on Laws of Motion (Hard level).,Laws of Motion option A-3,Laws of Motion option B-3,Laws of Motion option C-3,Laws of Motion option D-3,C
+Q0009,Physics,Laws of Motion,Easy,[Laws of Motion] Sample question #4 on Laws of Motion (Easy level).,Laws of Motion option A-4,Laws of Motion option B-4,Laws of Motion option C-4,Laws of Motion option D-4,A
+Q0010,Physics,Laws of Motion,Medium,[Laws of Motion] Sample question #5 on Laws of Motion (Medium level).,Laws of Motion option A-5,Laws of Motion option B-5,Laws of Motion option C-5,Laws of Motion option D-5,A
+Q0011,Physics,Thermodynamics,Easy,[Thermodynamics] Sample question #1 on Thermodynamics (Easy level).,Thermodynamics option A-1,Thermodynamics option B-1,Thermodynamics option C-1,Thermodynamics option D-1,C
+Q0012,Physics,Thermodynamics,Medium,[Thermodynamics] Sample question #2 on Thermodynamics (Medium level).,Thermodynamics option A-2,Thermodynamics option B-2,Thermodynamics option C-2,Thermodynamics option D-2,D
+Q0013,Physics,Thermodynamics,Hard,[Thermodynamics] Sample question #3 on Thermodynamics (Hard level).,Thermodynamics option A-3,Thermodynamics option B-3,Thermodynamics option C-3,Thermodynamics option D-3,C
+Q0014,Physics,Thermodynamics,Easy,[Thermodynamics] Sample question #4 on Thermodynamics (Easy level).,Thermodynamics option A-4,Thermodynamics option B-4,Thermodynamics option C-4,Thermodynamics option D-4,D
+Q0015,Physics,Thermodynamics,Medium,[Thermodynamics] Sample question #5 on Thermodynamics (Medium level).,Thermodynamics option A-5,Thermodynamics option B-5,Thermodynamics option C-5,Thermodynamics option D-5,C
+Q0016,Physics,Optics,Easy,[Optics] Sample question #1 on Optics (Easy level).,Optics option A-1,Optics option B-1,Optics option C-1,Optics option D-1,D
+Q0017,Physics,Optics,Medium,[Optics] Sample question #2 on Optics (Medium level).,Optics option A-2,Optics option B-2,Optics option C-2,Optics option D-2,C
+Q0018,Physics,Optics,Hard,[Optics] Sample question #3 on Optics (Hard level).,Optics option A-3,Optics option B-3,Optics option C-3,Optics option D-3,A
+Q0019,Physics,Optics,Easy,[Optics] Sample question #4 on Optics (Easy level).,Optics option A-4,Optics option B-4,Optics option C-4,Optics option D-4,D
+Q0020,Physics,Optics,Medium,[Optics] Sample question #5 on Optics (Medium level).,Optics option A-5,Optics option B-5,Optics option C-5,Optics option D-5,B
+Q0021,Physics,Electrostatics,Easy,[Electrostatics] Sample question #1 on Electrostatics (Easy level).,Electrostatics option A-1,Electrostatics option B-1,Electrostatics option C-1,Electrostatics option D-1,C
+Q0022,Physics,Electrostatics,Medium,[Electrostatics] Sample question #2 on Electrostatics (Medium level).,Electrostatics option A-2,Electrostatics option B-2,Electrostatics option C-2,Electrostatics option D-2,B
+Q0023,Physics,Electrostatics,Hard,[Electrostatics] Sample question #3 on Electrostatics (Hard level).,Electrostatics option A-3,Electrostatics option B-3,Electrostatics option C-3,Electrostatics option D-3,A
+Q0024,Physics,Electrostatics,Easy,[Electrostatics] Sample question #4 on Electrostatics (Easy level).,Electrostatics option A-4,Electrostatics option B-4,Electrostatics option C-4,Electrostatics option D-4,D
+Q0025,Physics,Electrostatics,Medium,[Electrostatics] Sample question #5 on Electrostatics (Medium level).,Electrostatics option A-5,Electrostatics option B-5,Electrostatics option C-5,Electrostatics option D-5,D
+Q0026,Chemistry,Atomic Structure,Easy,[Atomic Structure] Sample question #1 on Atomic Structure (Easy level).,Atomic Structure option A-1,Atomic Structure option B-1,Atomic Structure option C-1,Atomic Structure option D-1,C
+Q0027,Chemistry,Atomic Structure,Medium,[Atomic Structure] Sample question #2 on Atomic Structure (Medium level).,Atomic Structure option A-2,Atomic Structure option B-2,Atomic Structure option C-2,Atomic Structure option D-2,B
+Q0028,Chemistry,Atomic Structure,Hard,[Atomic Structure] Sample question #3 on Atomic Structure (Hard level).,Atomic Structure option A-3,Atomic Structure option B-3,Atomic Structure option C-3,Atomic Structure option D-3,D
+Q0029,Chemistry,Atomic Structure,Easy,[Atomic Structure] Sample question #4 on Atomic Structure (Easy level).,Atomic Structure option A-4,Atomic Structure option B-4,Atomic Structure option C-4,Atomic Structure option D-4,C
+Q0030,Chemistry,Atomic Structure,Medium,[Atomic Structure] Sample question #5 on Atomic Structure (Medium level).,Atomic Structure option A-5,Atomic Structure option B-5,Atomic Structure option C-5,Atomic Structure option D-5,B
+Q0031,Chemistry,Chemical Bonding,Easy,[Chemical Bonding] Sample question #1 on Chemical Bonding (Easy level).,Chemical Bonding option A-1,Chemical Bonding option B-1,Chemical Bonding option C-1,Chemical Bonding option D-1,B
+Q0032,Chemistry,Chemical Bonding,Medium,[Chemical Bonding] Sample question #2 on Chemical Bonding (Medium level).,Chemical Bonding option A-2,Chemical Bonding option B-2,Chemical Bonding option C-2,Chemical Bonding option D-2,A
+Q0033,Chemistry,Chemical Bonding,Hard,[Chemical Bonding] Sample question #3 on Chemical Bonding (Hard level).,Chemical Bonding option A-3,Chemical Bonding option B-3,Chemical Bonding option C-3,Chemical Bonding option D-3,A
+Q0034,Chemistry,Chemical Bonding,Easy,[Chemical Bonding] Sample question #4 on Chemical Bonding (Easy level).,Chemical Bonding option A-4,Chemical Bonding option B-4,Chemical Bonding option C-4,Chemical Bonding option D-4,C
+Q0035,Chemistry,Chemical Bonding,Medium,[Chemical Bonding] Sample question #5 on Chemical Bonding (Medium level).,Chemical Bonding option A-5,Chemical Bonding option B-5,Chemical Bonding option C-5,Chemical Bonding option D-5,D
+Q0036,Chemistry,Organic Reactions,Easy,[Organic Reactions] Sample question #1 on Organic Reactions (Easy level).,Organic Reactions option A-1,Organic Reactions option B-1,Organic Reactions option C-1,Organic Reactions option D-1,A
+Q0037,Chemistry,Organic Reactions,Medium,[Organic Reactions] Sample question #2 on Organic Reactions (Medium level).,Organic Reactions option A-2,Organic Reactions option B-2,Organic Reactions option C-2,Organic Reactions option D-2,D
+Q0038,Chemistry,Organic Reactions,Hard,[Organic Reactions] Sample question #3 on Organic Reactions (Hard level).,Organic Reactions option A-3,Organic Reactions option B-3,Organic Reactions option C-3,Organic Reactions option D-3,D
+Q0039,Chemistry,Organic Reactions,Easy,[Organic Reactions] Sample question #4 on Organic Reactions (Easy level).,Organic Reactions option A-4,Organic Reactions option B-4,Organic Reactions option C-4,Organic Reactions option D-4,B
+Q0040,Chemistry,Organic Reactions,Medium,[Organic Reactions] Sample question #5 on Organic Reactions (Medium level).,Organic Reactions option A-5,Organic Reactions option B-5,Organic Reactions option C-5,Organic Reactions option D-5,C
+Q0041,Chemistry,Equilibrium,Easy,[Equilibrium] Sample question #1 on Equilibrium (Easy level).,Equilibrium option A-1,Equilibrium option B-1,Equilibrium option C-1,Equilibrium option D-1,A
+Q0042,Chemistry,Equilibrium,Medium,[Equilibrium] Sample question #2 on Equilibrium (Medium level).,Equilibrium option A-2,Equilibrium option B-2,Equilibrium option C-2,Equilibrium option D-2,D
+Q0043,Chemistry,Equilibrium,Hard,[Equilibrium] Sample question #3 on Equilibrium (Hard level).,Equilibrium option A-3,Equilibrium option B-3,Equilibrium option C-3,Equilibrium option D-3,C
+Q0044,Chemistry,Equilibrium,Easy,[Equilibrium] Sample question #4 on Equilibrium (Easy level).,Equilibrium option A-4,Equilibrium option B-4,Equilibrium option C-4,Equilibrium option D-4,B
+Q0045,Chemistry,Equilibrium,Medium,[Equilibrium] Sample question #5 on Equilibrium (Medium level).,Equilibrium option A-5,Equilibrium option B-5,Equilibrium option C-5,Equilibrium option D-5,A
+Q0046,Chemistry,Thermochemistry,Easy,[Thermochemistry] Sample question #1 on Thermochemistry (Easy level).,Thermochemistry option A-1,Thermochemistry option B-1,Thermochemistry option C-1,Thermochemistry option D-1,D
+Q0047,Chemistry,Thermochemistry,Medium,[Thermochemistry] Sample question #2 on Thermochemistry (Medium level).,Thermochemistry option A-2,Thermochemistry option B-2,Thermochemistry option C-2,Thermochemistry option D-2,B
+Q0048,Chemistry,Thermochemistry,Hard,[Thermochemistry] Sample question #3 on Thermochemistry (Hard level).,Thermochemistry option A-3,Thermochemistry option B-3,Thermochemistry option C-3,Thermochemistry option D-3,D
+Q0049,Chemistry,Thermochemistry,Easy,[Thermochemistry] Sample question #4 on Thermochemistry (Easy level).,Thermochemistry option A-4,Thermochemistry option B-4,Thermochemistry option C-4,Thermochemistry option D-4,C
+Q0050,Chemistry,Thermochemistry,Medium,[Thermochemistry] Sample question #5 on Thermochemistry (Medium level).,Thermochemistry option A-5,Thermochemistry option B-5,Thermochemistry option C-5,Thermochemistry option D-5,D
+Q0051,Mathematics,Algebra,Easy,[Algebra] Sample question #1 on Algebra (Easy level).,Algebra option A-1,Algebra option B-1,Algebra option C-1,Algebra option D-1,D
+Q0052,Mathematics,Algebra,Medium,[Algebra] Sample question #2 on Algebra (Medium level).,Algebra option A-2,Algebra option B-2,Algebra option C-2,Algebra option D-2,A
+Q0053,Mathematics,Algebra,Hard,[Algebra] Sample question #3 on Algebra (Hard level).,Algebra option A-3,Algebra option B-3,Algebra option C-3,Algebra option D-3,B
+Q0054,Mathematics,Algebra,Easy,[Algebra] Sample question #4 on Algebra (Easy level).,Algebra option A-4,Algebra option B-4,Algebra option C-4,Algebra option D-4,B
+Q0055,Mathematics,Algebra,Medium,[Algebra] Sample question #5 on Algebra (Medium level).,Algebra option A-5,Algebra option B-5,Algebra option C-5,Algebra option D-5,B
+Q0056,Mathematics,Calculus,Easy,[Calculus] Sample question #1 on Calculus (Easy level).,Calculus option A-1,Calculus option B-1,Calculus option C-1,Calculus option D-1,A
+Q0057,Mathematics,Calculus,Medium,[Calculus] Sample question #2 on Calculus (Medium level).,Calculus option A-2,Calculus option B-2,Calculus option C-2,Calculus option D-2,C
+Q0058,Mathematics,Calculus,Hard,[Calculus] Sample question #3 on Calculus (Hard level).,Calculus option A-3,Calculus option B-3,Calculus option C-3,Calculus option D-3,A
+Q0059,Mathematics,Calculus,Easy,[Calculus] Sample question #4 on Calculus (Easy level).,Calculus option A-4,Calculus option B-4,Calculus option C-4,Calculus option D-4,C
+Q0060,Mathematics,Calculus,Medium,[Calculus] Sample question #5 on Calculus (Medium level).,Calculus option A-5,Calculus option B-5,Calculus option C-5,Calculus option D-5,C
+Q0061,Mathematics,Trigonometry,Easy,[Trigonometry] Sample question #1 on Trigonometry (Easy level).,Trigonometry option A-1,Trigonometry option B-1,Trigonometry option C-1,Trigonometry option D-1,D
+Q0062,Mathematics,Trigonometry,Medium,[Trigonometry] Sample question #2 on Trigonometry (Medium level).,Trigonometry option A-2,Trigonometry option B-2,Trigonometry option C-2,Trigonometry option D-2,C
+Q0063,Mathematics,Trigonometry,Hard,[Trigonometry] Sample question #3 on Trigonometry (Hard level).,Trigonometry option A-3,Trigonometry option B-3,Trigonometry option C-3,Trigonometry option D-3,B
+Q0064,Mathematics,Trigonometry,Easy,[Trigonometry] Sample question #4 on Trigonometry (Easy level).,Trigonometry option A-4,Trigonometry option B-4,Trigonometry option C-4,Trigonometry option D-4,D
+Q0065,Mathematics,Trigonometry,Medium,[Trigonometry] Sample question #5 on Trigonometry (Medium level).,Trigonometry option A-5,Trigonometry option B-5,Trigonometry option C-5,Trigonometry option D-5,B
+Q0066,Mathematics,Probability,Easy,[Probability] Sample question #1 on Probability (Easy level).,Probability option A-1,Probability option B-1,Probability option C-1,Probability option D-1,B
+Q0067,Mathematics,Probability,Medium,[Probability] Sample question #2 on Probability (Medium level).,Probability option A-2,Probability option B-2,Probability option C-2,Probability option D-2,D
+Q0068,Mathematics,Probability,Hard,[Probability] Sample question #3 on Probability (Hard level).,Probability option A-3,Probability option B-3,Probability option C-3,Probability option D-3,B
+Q0069,Mathematics,Probability,Easy,[Probability] Sample question #4 on Probability (Easy level).,Probability option A-4,Probability option B-4,Probability option C-4,Probability option D-4,A
+Q0070,Mathematics,Probability,Medium,[Probability] Sample question #5 on Probability (Medium level).,Probability option A-5,Probability option B-5,Probability option C-5,Probability option D-5,B
+Q0071,Mathematics,Coordinate Geometry,Easy,[Coordinate Geometry] Sample question #1 on Coordinate Geometry (Easy level).,Coordinate Geometry option A-1,Coordinate Geometry option B-1,Coordinate Geometry option C-1,Coordinate Geometry option D-1,D
+Q0072,Mathematics,Coordinate Geometry,Medium,[Coordinate Geometry] Sample question #2 on Coordinate Geometry (Medium level).,Coordinate Geometry option A-2,Coordinate Geometry option B-2,Coordinate Geometry option C-2,Coordinate Geometry option D-2,A
+Q0073,Mathematics,Coordinate Geometry,Hard,[Coordinate Geometry] Sample question #3 on Coordinate Geometry (Hard level).,Coordinate Geometry option A-3,Coordinate Geometry option B-3,Coordinate Geometry option C-3,Coordinate Geometry option D-3,B
+Q0074,Mathematics,Coordinate Geometry,Easy,[Coordinate Geometry] Sample question #4 on Coordinate Geometry (Easy level).,Coordinate Geometry option A-4,Coordinate Geometry option B-4,Coordinate Geometry option C-4,Coordinate Geometry option D-4,A
+Q0075,Mathematics,Coordinate Geometry,Medium,[Coordinate Geometry] Sample question #5 on Coordinate Geometry (Medium level).,Coordinate Geometry option A-5,Coordinate Geometry option B-5,Coordinate Geometry option C-5,Coordinate Geometry option D-5,C
